@@ -15,3 +15,5 @@ Imports:
     palmerpenguins,
     rpart,
     tidyr
+URL: https://github.com/Eve1002/gbrt
+BugReports: https://github.com/Eve1002/gbrt/issues
